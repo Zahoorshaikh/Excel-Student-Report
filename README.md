@@ -16,6 +16,9 @@ This project is created using Microsoft Excel to manage student performance data
 
 * Microsoft Excel
 
+## Preview
+[Project Screenshot] ( https://github.com/Zahoorshaikh/Excel-Student-Report/blob/main/Student_Report_Preview.png?raw=true )
+
 ## 👨‍💻 Author
 
 Zahoor Shaikh
